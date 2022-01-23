@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/csgoeap.Parser.Console/bin/Debug
+/csgoeap.Parser.Console/obj
+/csgoeap.Parser.Console/appsettings.Development.json
+/csgoeap.Parser.DemoInfoCore/bin
+/csgoeap.Parser.DemoInfoCore/obj
+/csgoeap.Parser.Parser/obj
+/csgoeap.Parser.Parser/bin/Debug
